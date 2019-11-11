@@ -2,7 +2,7 @@
     "sensors":{
         "data":[
             {
-                "id": "b63c8f0d7c3c",
+                "id": "0000b63c8f0d7c3c",
                 "name": "Ch_V_0_DEP-7_094-INS-107",
                 "offset": "0|0",
                 "data_acquisition_duration": "NA",
