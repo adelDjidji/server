@@ -1,0 +1,146 @@
+{
+    "sensors":[
+        {
+            "id": "b63c8f0d7c3c",
+            "name": "Ch_V_0_DEP-7_094-INS-107",
+            "offset": "0|0",
+            "data_acquisition_duration": "NA",
+            "sampling_rate": "NA",
+            "mesurement_polarity": "Unipolarmode",
+            "late_acquisition_count": 0,
+            "data_acquisition_cycle": 2,
+            "unit": "mm",
+            "media": [],
+            "signals":[
+                {
+                  "id": "3474a985-afa6-4bfe-8047-3912fc36abfc",
+                  "name": "Ch_mV_0_7190",
+                  "time": "2019-10-25T07:07:49.000000Z",
+                  "value": 60.8,
+                  "sensor": "Ch_mV_0_7190"
+                },
+                {
+                  "id": "3474a985-afa6-4bfe-8047-3912fc36abfc",
+                  "name": "Ch_mV_0_7190",
+                  "time": "2019-10-25T07:07:49.000000Z",
+                  "value": 47.8,
+                  "sensor": "Ch_mV_0_7190"
+                }
+              ]
+          },
+          {
+            "id": "2323j2392",
+            "name": "TMP_HTT-7_094-INS-107",
+            "offset": "0|0",
+            "data_acquisition_duration": "NA",
+            "sampling_rate": "NA",
+            "mesurement_polarity": "Unipolarmode",
+            "late_acquisition_count": 0,
+            "data_acquisition_cycle": 2,
+            "unit": "m",
+            "media": [],
+            "signals":[
+                
+                
+                {
+                  "id": "d900cb3a-2556-4f63-9c81-bd8812fecd07",
+                  "name": "Ch_X_NORD-SUD",
+                  "time": "2019-10-31T13:42:00.000000Z",
+                  "value": -0.11951,
+                  "sensor": "Ch_X_NORD-SUD"
+                },
+                {
+                  "id": "2a18248d-2232-48f7-a569-3bf4ab668852",
+                  "name": "Ch_X_NORD-SUD",
+                  "time": "2019-10-31T13:52:00.000000Z",
+                  "value": -0.08453999999999995,
+                  "sensor": "Ch_X_NORD-SUD"
+                },
+                {
+                  "id": "670e728c-54db-47a4-9804-4a6c6749afd9",
+                  "name": "Ch_Y_EST-OUEST",
+                  "time": "2019-10-31T13:52:00.000000Z",
+                  "value": 0.08337,
+                  "sensor": "Ch_Y_EST-OUEST"
+                },
+                {
+                  "id": "4642ecf5-2572-456a-a99a-14c0f73c0f98",
+                  "name": "Ch_Y_EST-OUEST",
+                  "time": "2019-10-31T14:02:00.000000Z",
+                  "value": 0.09648,
+                  "sensor": "Ch_Y_EST-OUEST"
+                },
+                {
+                  "id": "d33807c3-58e6-4087-9317-fcf02db39e62",
+                  "name": "Ch_X_NORD-SUD",
+                  "time": "2019-10-31T14:02:00.000000Z",
+                  "value": -0.11131999999999997,
+                  "sensor": "Ch_X_NORD-SUD"
+                },
+                {
+                  "id": "834b8dda-f0a2-43c1-b82a-62998bc292ad",
+                  "name": "Ch_Y_EST-OUEST",
+                  "time": "2019-10-31T14:12:00.000000Z",
+                  "value": 0.09211,
+                  "sensor": "Ch_Y_EST-OUEST"
+                },
+                {
+                  "id": "7eb0216a-ba78-46b9-81b8-9cf4d5abbba1",
+                  "name": "Ch_X_NORD-SUD",
+                  "time": "2019-10-31T14:12:00.000000Z",
+                  "value": -0.11787000000000003,
+                  "sensor": "Ch_X_NORD-SUD"
+                },
+                {
+                  "id": "c4f8cc76-7f32-4d67-b6c5-7c532659e9df",
+                  "name": "Ch_X_NORD-SUD",
+                  "time": "2019-10-31T14:22:00.000000Z",
+                  "value": -0.12005999999999994,
+                  "sensor": "Ch_X_NORD-SUD"
+                },
+                {
+                  "id": "06bd925d-e402-431c-83f9-126b551e0918",
+                  "name": "Ch_Y_EST-OUEST",
+                  "time": "2019-10-31T14:22:00.000000Z",
+                  "value": 0.08938,
+                  "sensor": "Ch_Y_EST-OUEST"
+                },
+                {
+                  "id": "725595bb-aae2-4b52-b8cc-0bec7d68fcb8",
+                  "name": "Ch_Y_EST-OUEST",
+                  "time": "2019-10-31T14:32:00.000000Z",
+                  "value": 0.10085,
+                  "sensor": "Ch_Y_EST-OUEST"
+                },
+                {
+                  "id": "6efee857-6e9d-4370-8a49-dae0d54bfffe",
+                  "name": "Ch_X_NORD-SUD",
+                  "time": "2019-10-31T14:32:00.000000Z",
+                  "value": -0.13044,
+                  "sensor": "Ch_X_NORD-SUD"
+                },
+                {
+                  "id": "4f03c2c4-d6ac-4024-b10d-0b029fe60342",
+                  "name": "Ch_Y_EST-OUEST",
+                  "time": "2019-10-31T14:42:00.000000Z",
+                  "value": 0.09812,
+                  "sensor": "Ch_Y_EST-OUEST"
+                },
+                {
+                  "id": "3734422a-a62d-4e05-8a0d-3cd7a68f9464",
+                  "name": "Ch_X_NORD-SUD",
+                  "time": "2019-10-31T14:42:00.000000Z",
+                  "value": -0.13973000000000002,
+                  "sensor": "Ch_X_NORD-SUD"
+                },
+                {
+                  "id": "bdf47a97-a094-4d49-a047-70015336c9e1",
+                  "name": "Ch_Y_EST-OUEST",
+                  "time": "2019-10-31T14:52:00.000000Z",
+                  "value": 0.10905,
+                  "sensor": "Ch_Y_EST-OUEST"
+                }
+              ]
+          },
+    ]
+}
